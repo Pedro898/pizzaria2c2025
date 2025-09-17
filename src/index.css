@@ -28,7 +28,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: violet;
+  background-color: rgb(226, 12, 12);
   color: white
 }
 
